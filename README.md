@@ -1,5 +1,5 @@
-# taniaramos-calculadora 
-proyecto de calculadora/ prueba 
+# taniaramos- THE WHITE WALL
+proyecto de THE WHITE WALL/ prueba 
 
 #tipografia
 'Montserrat', sans-serif;
